@@ -1,0 +1,1 @@
+REPLACE INTO `Status` (`StatusId`,`StatusNameInvariant`) VALUES (1,"Active"),(2,"Inactive");
